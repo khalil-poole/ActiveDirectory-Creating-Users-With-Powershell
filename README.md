@@ -31,9 +31,13 @@ Next, scroll down until you see "Select users that can remotely access this PC" 
 
 In the next window, "Remote Desktop Users" click "Add".
 
-So inside the new window that says "Select Users or Groups" inside the white text area we are going to type "domain users" exactly like that with no extra spaces after, and then click "Check Names" followed by clicking "Ok" and "Ok" again. Essentially what this means is that all users within the organization now has access within the domain.
+So inside the new window that says "Select Users or Groups" inside the white text area we are going to type "domain users" exactly like that with no extra spaces after, and then click "Check Names" followed by clicking "Ok" and "Ok" again. Essentially what this means is that all users within the organization now has access within the domain without having an administrative role for Group Policy (more on that later :) ).
 
 <img width="629" height="316" alt="image" src="https://github.com/user-attachments/assets/f6e39e78-00d9-4520-87f0-6bf70ab1d79f" />
+
+
+**Create a bunch of additional users with Powershell in Active Directory**
+
 
 
 
