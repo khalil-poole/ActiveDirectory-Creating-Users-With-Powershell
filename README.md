@@ -93,7 +93,7 @@ The next screenshot just observe only, but as you can see, the user has successf
 <img width="1408" height="745" alt="image" src="https://github.com/user-attachments/assets/efe01d10-8e2a-4751-b68d-16e403c358fa" />
 
 
-This section is now complete, and now it's time to tackle the final part of this Active Directory lab, [Group Policy](https://github.com/khalil-poole/Group-Policy-And-Managing-Accounts)
+This section is now complete, and now it's time to tackle [Group Policy](https://github.com/khalil-poole/Group-Policy-And-Managing-Accounts)
 
 
 
